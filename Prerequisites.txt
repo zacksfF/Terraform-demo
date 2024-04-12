@@ -1,0 +1,4 @@
+- Google Cloud acccount 
+- Cloud SDK installed and configuration 
+- kubctl installed 
+- Terraform installed 
